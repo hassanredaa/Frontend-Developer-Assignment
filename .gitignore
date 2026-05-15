@@ -1,0 +1,15 @@
+node_modules
+.nuxt
+.output
+.data
+.vercel
+.netlify
+dist
+*.local
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.nuxt-dev*.log
