@@ -18,7 +18,7 @@ npm run preview
 
 ## Hosted URL
 
-TODO: Add deployed URL after publishing to GitHub Pages, Firebase Hosting, Netlify, Vercel, or another free host.
+https://endearing-sopapillas-13c10b.netlify.app/
 
 ## Netlify Deployment
 
