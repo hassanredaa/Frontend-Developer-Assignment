@@ -20,6 +20,16 @@ npm run preview
 
 TODO: Add deployed URL after publishing to GitHub Pages, Firebase Hosting, Netlify, Vercel, or another free host.
 
+## Netlify Deployment
+
+Use the included `netlify.toml` settings:
+
+- Build command: `npm run generate`
+- Publish directory: `.output/public`
+- Base directory: leave empty if this project is the repository root
+
+If deploying manually with drag-and-drop, run `npm run generate` locally and upload the `.output/public` folder, not the full source folder.
+
 ## Figma
 
 - Desktop frame: https://www.figma.com/design/OHeO2r3Qp4kDJP36kjpAgC/Website-v0.0?node-id=1-3&p=f&t=LkChpIP0O7csXOjO-0
